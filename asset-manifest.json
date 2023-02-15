@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/output-download-compression/static/css/main.07562488.css",
-    "main.js": "/output-download-compression/static/js/main.c3fb096b.js",
-    "static/js/787.f73f5670.chunk.js": "/output-download-compression/static/js/787.f73f5670.chunk.js",
-    "index.html": "/output-download-compression/index.html",
-    "main.c3fb096b.js.map": "/output-download-compression/static/js/main.c3fb096b.js.map",
-    "787.f73f5670.chunk.js.map": "/output-download-compression/static/js/787.f73f5670.chunk.js.map"
+    "main.css": "/mtec-1003-output-download-compression/static/css/main.07562488.css",
+    "main.js": "/mtec-1003-output-download-compression/static/js/main.fec9337b.js",
+    "static/js/787.f73f5670.chunk.js": "/mtec-1003-output-download-compression/static/js/787.f73f5670.chunk.js",
+    "index.html": "/mtec-1003-output-download-compression/index.html",
+    "main.fec9337b.js.map": "/mtec-1003-output-download-compression/static/js/main.fec9337b.js.map",
+    "787.f73f5670.chunk.js.map": "/mtec-1003-output-download-compression/static/js/787.f73f5670.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.07562488.css",
-    "static/js/main.c3fb096b.js"
+    "static/js/main.fec9337b.js"
   ]
 }
